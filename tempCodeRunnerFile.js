@@ -1,0 +1,1 @@
+https://api.exchangerate.host/convert?from=USD&to=EGP
